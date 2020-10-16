@@ -26,7 +26,4 @@ $iva=0.23;
 $soma=$preco*$iva;
 $quoci=$preco+$iva+$soma;
 echo "<br> O João com iva paragara ".$quoci;
-
-
-
 ?>
